@@ -5,4 +5,5 @@ Here in coding :
 1) Function
 2) loop
 3) conditional statement
+4) data type list and dictionary are used.
 
